@@ -128,8 +128,7 @@ FINNOLAN/
 
 🛠️ Installation & Setup
 1. Clone the repository
-git clone https://github.com/Shashankreddyo8/finnodash-ai
-cd finnodash-ai
+git clone 
 
 2. Install Frontend
 npm install
